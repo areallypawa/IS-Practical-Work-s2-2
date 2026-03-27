@@ -6,6 +6,7 @@
 #include "Header_workWithArr.h"
 using namespace std;
 
+// ПРИВЕТ
 
 int main() {
 	setlocale(0, "RU");
